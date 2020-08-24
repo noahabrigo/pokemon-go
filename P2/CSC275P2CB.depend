@@ -1,0 +1,304 @@
+# depslib dependency file v1.0
+1572066516 source:c:\users\noah\google drive\fall 2019\csc 275 - prob solving & prog ii\p2\main.cpp
+	<iostream>
+	"pokemon.h"
+
+1572061446 c:\users\noah\google drive\fall 2019\csc 275 - prob solving & prog ii\p2\include\pokemon.h
+	<iostream>
+	<string>
+	<vector>
+	<math.h>
+	"fast_moves.h"
+	"charge_moves.h"
+
+1572053124 c:\users\noah\google drive\fall 2019\csc 275 - prob solving & prog ii\p2\include\fast_moves.h
+	<string>
+
+1572053077 c:\users\noah\google drive\fall 2019\csc 275 - prob solving & prog ii\p2\include\charge_moves.h
+	<string>
+
+1572053097 source:c:\users\noah\google drive\fall 2019\csc 275 - prob solving & prog ii\p2\src\charge_moves.cpp
+	"charge_moves.h"
+
+1572053146 source:c:\users\noah\google drive\fall 2019\csc 275 - prob solving & prog ii\p2\src\fast_moves.cpp
+	"fast_moves.h"
+
+1572061474 source:c:\users\noah\google drive\fall 2019\csc 275 - prob solving & prog ii\p2\src\pokemon.cpp
+	"pokemon.h"
+	"cp.cpp"
+	"types.cpp"
+	"move_list.cpp"
+	"battle_multipliers.cpp"
+	"poke_db.cpp"
+
+1572053595 c:\users\noah\google drive\fall 2019\csc 275 - prob solving & prog ii\p2\include\cp.cpp
+
+1572053451 c:\users\noah\google drive\fall 2019\csc 275 - prob solving & prog ii\p2\include\types.cpp
+
+1572053509 c:\users\noah\google drive\fall 2019\csc 275 - prob solving & prog ii\p2\include\move_list.cpp
+
+1572053815 c:\users\noah\google drive\fall 2019\csc 275 - prob solving & prog ii\p2\include\battle_multipliers.cpp
+
+1572053755 c:\users\noah\google drive\fall 2019\csc 275 - prob solving & prog ii\p2\include\poke_db.cpp
+
+1572354629 source:c:\users\noah\google drive\fall 2019\csc 275 - prob solving & prog ii\p2\src\trainer.cpp
+	"trainer.h"
+
+1572354621 c:\users\noah\google drive\fall 2019\csc 275 - prob solving & prog ii\p2\include\trainer.h
+	"pokemon.h"
+
+1572842115 source:e:\my drive\fall 2019\csc 275 - prob solving & prog ii\p2\main.cpp
+	<iostream>
+	"trainer.h"
+
+1572839735 e:\my drive\fall 2019\csc 275 - prob solving & prog ii\p2\include\pokemon.h
+	<iostream>
+	<string>
+	<vector>
+	<math.h>
+	"fast_moves.h"
+	"charge_moves.h"
+
+1572813914 e:\my drive\fall 2019\csc 275 - prob solving & prog ii\p2\include\fast_moves.h
+	<string>
+
+1572814230 e:\my drive\fall 2019\csc 275 - prob solving & prog ii\p2\include\charge_moves.h
+	<string>
+
+1572814268 source:e:\my drive\fall 2019\csc 275 - prob solving & prog ii\p2\src\charge_moves.cpp
+	"charge_moves.h"
+
+1572814019 source:e:\my drive\fall 2019\csc 275 - prob solving & prog ii\p2\src\fast_moves.cpp
+	"fast_moves.h"
+
+1572841224 source:e:\my drive\fall 2019\csc 275 - prob solving & prog ii\p2\src\trainer.cpp
+	"trainer.h"
+
+1572841171 e:\my drive\fall 2019\csc 275 - prob solving & prog ii\p2\include\trainer.h
+	"pokemon.h"
+
+1572839687 source:e:\my drive\fall 2019\csc 275 - prob solving & prog ii\p2\src\pokemon.cpp
+	"pokemon.h"
+	"cp.cpp"
+	"types.cpp"
+	"move_list.cpp"
+	"battle_multipliers.cpp"
+	"poke_db.cpp"
+
+1572049995 e:\my drive\fall 2019\csc 275 - prob solving & prog ii\p2\include\cp.cpp
+
+1572049840 e:\my drive\fall 2019\csc 275 - prob solving & prog ii\p2\include\types.cpp
+
+1572827240 e:\my drive\fall 2019\csc 275 - prob solving & prog ii\p2\include\move_list.cpp
+
+1572812273 e:\my drive\fall 2019\csc 275 - prob solving & prog ii\p2\include\battle_multipliers.cpp
+
+1572827516 e:\my drive\fall 2019\csc 275 - prob solving & prog ii\p2\include\poke_db.cpp
+
+1572972954 source:d:\documents\p2\main.cpp
+	<iostream>
+	<chrono>
+	<thread>
+	<stdlib.h>
+	"trainer.h"
+
+1572970980 d:\documents\p2\include\trainer.h
+	"pokemon.h"
+
+1572968496 d:\documents\p2\include\pokemon.h
+	<iostream>
+	<string>
+	<vector>
+	<math.h>
+	<chrono>
+	<thread>
+	"fast_moves.h"
+	"charge_moves.h"
+
+1572925672 d:\documents\p2\include\fast_moves.h
+	<string>
+
+1572925656 d:\documents\p2\include\charge_moves.h
+	<string>
+
+1572925804 source:d:\documents\p2\src\charge_moves.cpp
+	"charge_moves.h"
+
+1572925856 source:d:\documents\p2\src\fast_moves.cpp
+	"fast_moves.h"
+
+1572973818 source:d:\documents\p2\src\pokemon.cpp
+	"pokemon.h"
+	"cp.cpp"
+	"types.cpp"
+	"move_list.cpp"
+	"battle_multipliers.cpp"
+	"poke_db.cpp"
+
+1572049996 d:\documents\p2\include\cp.cpp
+
+1572923872 d:\documents\p2\include\types.cpp
+
+1572923708 d:\documents\p2\include\move_list.cpp
+
+1572923770 d:\documents\p2\include\battle_multipliers.cpp
+
+1572973976 d:\documents\p2\include\poke_db.cpp
+
+1572971068 source:d:\documents\p2\src\trainer.cpp
+	"trainer.h"
+
+1572987280 source:d:\documents\college\fall 2019\csc 275 - prob solving & prog ii\p2\main.cpp
+	<iostream>
+	<chrono>
+	<thread>
+	"trainer.h"
+
+1572970980 d:\documents\college\fall 2019\csc 275 - prob solving & prog ii\p2\include\trainer.h
+	"pokemon.h"
+
+1572968496 d:\documents\college\fall 2019\csc 275 - prob solving & prog ii\p2\include\pokemon.h
+	<iostream>
+	<string>
+	<vector>
+	<math.h>
+	<chrono>
+	<thread>
+	"fast_moves.h"
+	"charge_moves.h"
+
+1572925672 d:\documents\college\fall 2019\csc 275 - prob solving & prog ii\p2\include\fast_moves.h
+	<string>
+
+1572925656 d:\documents\college\fall 2019\csc 275 - prob solving & prog ii\p2\include\charge_moves.h
+	<string>
+
+1572925804 source:d:\documents\college\fall 2019\csc 275 - prob solving & prog ii\p2\src\charge_moves.cpp
+	"charge_moves.h"
+
+1572925856 source:d:\documents\college\fall 2019\csc 275 - prob solving & prog ii\p2\src\fast_moves.cpp
+	"fast_moves.h"
+
+1572973818 source:d:\documents\college\fall 2019\csc 275 - prob solving & prog ii\p2\src\pokemon.cpp
+	"pokemon.h"
+	"cp.cpp"
+	"types.cpp"
+	"move_list.cpp"
+	"battle_multipliers.cpp"
+	"poke_db.cpp"
+
+1572049996 d:\documents\college\fall 2019\csc 275 - prob solving & prog ii\p2\include\cp.cpp
+
+1572923872 d:\documents\college\fall 2019\csc 275 - prob solving & prog ii\p2\include\types.cpp
+
+1572923708 d:\documents\college\fall 2019\csc 275 - prob solving & prog ii\p2\include\move_list.cpp
+
+1572923770 d:\documents\college\fall 2019\csc 275 - prob solving & prog ii\p2\include\battle_multipliers.cpp
+
+1572973976 d:\documents\college\fall 2019\csc 275 - prob solving & prog ii\p2\include\poke_db.cpp
+
+1572971068 source:d:\documents\college\fall 2019\csc 275 - prob solving & prog ii\p2\src\trainer.cpp
+	"trainer.h"
+
+1573011246 source:d:\p2\main.cpp
+	<iostream>
+	<chrono>
+	<thread>
+	"trainer.h"
+
+1573011100 d:\p2\include\trainer.h
+	"pokemon.h"
+
+1573011286 d:\p2\include\pokemon.h
+	<iostream>
+	<string>
+	<vector>
+	<math.h>
+	<cstdlib>
+	"fast_moves.h"
+	"charge_moves.h"
+
+1573009624 d:\p2\include\fast_moves.h
+	<string>
+
+1573009618 d:\p2\include\charge_moves.h
+	<string>
+
+1572925804 source:d:\p2\src\charge_moves.cpp
+	"charge_moves.h"
+
+1572925856 source:d:\p2\src\fast_moves.cpp
+	"fast_moves.h"
+
+1573010058 source:d:\p2\src\pokemon.cpp
+	"pokemon.h"
+	"cp.cpp"
+	"types.cpp"
+	"move_list.cpp"
+	"battle_multipliers.cpp"
+	"poke_db.cpp"
+
+1572049996 d:\p2\include\cp.cpp
+
+1572923872 d:\p2\include\types.cpp
+
+1573004224 d:\p2\include\move_list.cpp
+
+1572923770 d:\p2\include\battle_multipliers.cpp
+
+1572973976 d:\p2\include\poke_db.cpp
+
+1573007976 source:d:\p2\src\trainer.cpp
+	"trainer.h"
+
+1573011630 source:g:\fall 2019\csc 275 - prob solving & prog ii\projects\p2\main.cpp
+	<iostream>
+	<chrono>
+	<thread>
+	"trainer.h"
+
+1573011452 g:\fall 2019\csc 275 - prob solving & prog ii\projects\p2\include\trainer.h
+	"pokemon.h"
+
+1573011286 g:\fall 2019\csc 275 - prob solving & prog ii\projects\p2\include\pokemon.h
+	<iostream>
+	<string>
+	<vector>
+	<math.h>
+	<cstdlib>
+	"fast_moves.h"
+	"charge_moves.h"
+
+1573009624 g:\fall 2019\csc 275 - prob solving & prog ii\projects\p2\include\fast_moves.h
+	<string>
+
+1573009618 g:\fall 2019\csc 275 - prob solving & prog ii\projects\p2\include\charge_moves.h
+	<string>
+
+1572925804 source:g:\fall 2019\csc 275 - prob solving & prog ii\projects\p2\src\charge_moves.cpp
+	"charge_moves.h"
+
+1572925856 source:g:\fall 2019\csc 275 - prob solving & prog ii\projects\p2\src\fast_moves.cpp
+	"fast_moves.h"
+
+1573011300 source:g:\fall 2019\csc 275 - prob solving & prog ii\projects\p2\src\pokemon.cpp
+	"pokemon.h"
+	"cp.cpp"
+	"types.cpp"
+	"move_list.cpp"
+	"battle_multipliers.cpp"
+	"poke_db.cpp"
+
+1572046396 g:\fall 2019\csc 275 - prob solving & prog ii\projects\p2\include\cp.cpp
+
+1572923872 g:\fall 2019\csc 275 - prob solving & prog ii\projects\p2\include\types.cpp
+
+1573004224 g:\fall 2019\csc 275 - prob solving & prog ii\projects\p2\include\move_list.cpp
+
+1572923770 g:\fall 2019\csc 275 - prob solving & prog ii\projects\p2\include\battle_multipliers.cpp
+
+1572973976 g:\fall 2019\csc 275 - prob solving & prog ii\projects\p2\include\poke_db.cpp
+
+1573011456 source:g:\fall 2019\csc 275 - prob solving & prog ii\projects\p2\src\trainer.cpp
+	"trainer.h"
+

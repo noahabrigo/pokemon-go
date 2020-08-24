@@ -1,0 +1,201 @@
+# depslib dependency file v1.0
+1574369289 source:g:\fall 2019\csc 275 - prob solving & prog ii\projects\p3\main.cpp
+	<iostream>
+	<vector>
+	"Fast_Move.h"
+	"Charge_Move.h"
+	"Trainer.h"
+
+1575266240 g:\fall 2019\csc 275 - prob solving & prog ii\projects\p3\include\fast_move.h
+	<string>
+
+1575266186 g:\fall 2019\csc 275 - prob solving & prog ii\projects\p3\include\charge_move.h
+	<string>
+
+1575266372 g:\fall 2019\csc 275 - prob solving & prog ii\projects\p3\include\trainer.h
+	<vector>
+	"Pokemon.h"
+
+1575266306 g:\fall 2019\csc 275 - prob solving & prog ii\projects\p3\include\pokemon.h
+	"Fast_Move.h"
+	"Charge_Move.h"
+	<string>
+	<vector>
+	<cstdlib>
+
+1575266216 source:g:\fall 2019\csc 275 - prob solving & prog ii\projects\p3\src\charge_move.cpp
+	"Charge_Move.h"
+	<string>
+
+1575266267 source:g:\fall 2019\csc 275 - prob solving & prog ii\projects\p3\src\fast_move.cpp
+	"Fast_Move.h"
+	<string.h>
+
+1575266343 source:g:\fall 2019\csc 275 - prob solving & prog ii\projects\p3\src\pokemon.cpp
+	"Pokemon.h"
+	<math.h>
+	<vector>
+	<iostream>
+	<string>
+	"Trainer.h"
+	<cstdlib>
+
+1575266392 source:g:\fall 2019\csc 275 - prob solving & prog ii\projects\p3\src\trainer.cpp
+	"Trainer.h"
+	<iostream>
+	<vector>
+
+1574369289 source:g:\fall 2019\csc 275 - prob solving & prog ii\projects\p3\starter\main.cpp
+	<iostream>
+	<vector>
+	"Fast_Move.h"
+	"Charge_Move.h"
+	"Trainer.h"
+
+1575266240 g:\fall 2019\csc 275 - prob solving & prog ii\projects\p3\starter\include\fast_move.h
+	<string>
+
+1575266186 g:\fall 2019\csc 275 - prob solving & prog ii\projects\p3\starter\include\charge_move.h
+	<string>
+
+1575266372 g:\fall 2019\csc 275 - prob solving & prog ii\projects\p3\starter\include\trainer.h
+	<vector>
+	"Pokemon.h"
+
+1575266306 g:\fall 2019\csc 275 - prob solving & prog ii\projects\p3\starter\include\pokemon.h
+	"Fast_Move.h"
+	"Charge_Move.h"
+	<string>
+	<vector>
+	<cstdlib>
+
+1575266216 source:g:\fall 2019\csc 275 - prob solving & prog ii\projects\p3\starter\src\charge_move.cpp
+	"Charge_Move.h"
+	<string>
+
+1575266267 source:g:\fall 2019\csc 275 - prob solving & prog ii\projects\p3\starter\src\fast_move.cpp
+	"Fast_Move.h"
+	<string.h>
+
+1575266343 source:g:\fall 2019\csc 275 - prob solving & prog ii\projects\p3\starter\src\pokemon.cpp
+	"Pokemon.h"
+	<math.h>
+	<vector>
+	<iostream>
+	<string>
+	"Trainer.h"
+	<cstdlib>
+
+1575266392 source:g:\fall 2019\csc 275 - prob solving & prog ii\projects\p3\starter\src\trainer.cpp
+	"Trainer.h"
+	<iostream>
+	<vector>
+
+1575270918 source:g:\fall 2019\csc 275 - prob solving & prog ii\projects\p3\v1\src\charge_move.cpp
+	"Charge_Move.h"
+	<string>
+
+1575269834 g:\fall 2019\csc 275 - prob solving & prog ii\projects\p3\v1\include\charge_move.h
+	"Pokemon_Move.h"
+	<string>
+
+1575269665 source:g:\fall 2019\csc 275 - prob solving & prog ii\projects\p3\v1\src\fast_move.cpp
+	"Fast_Move.h"
+	<string.h>
+
+1575270622 g:\fall 2019\csc 275 - prob solving & prog ii\projects\p3\v1\include\fast_move.h
+	"Pokemon_Move.h"
+	<string>
+
+1575270214 source:g:\fall 2019\csc 275 - prob solving & prog ii\projects\p3\v1\src\pokemon.cpp
+	"Pokemon.h"
+	<math.h>
+	<vector>
+	<iostream>
+	<string>
+	"Trainer.h"
+	<cstdlib>
+
+1575270241 g:\fall 2019\csc 275 - prob solving & prog ii\projects\p3\v1\include\pokemon.h
+	"Fast_Move.h"
+	"Charge_Move.h"
+	<string>
+	<vector>
+	<cstdlib>
+
+1575266372 g:\fall 2019\csc 275 - prob solving & prog ii\projects\p3\v1\include\trainer.h
+	<vector>
+	"Pokemon.h"
+
+1575271870 source:g:\fall 2019\csc 275 - prob solving & prog ii\projects\p3\v1\src\trainer.cpp
+	"Trainer.h"
+	<iostream>
+	<vector>
+
+1575270906 source:g:\fall 2019\csc 275 - prob solving & prog ii\projects\p3\v1\main.cpp
+	<iostream>
+	<vector>
+	"Fast_Move.h"
+	"Charge_Move.h"
+	"Trainer.h"
+
+1575270050 g:\fall 2019\csc 275 - prob solving & prog ii\projects\p3\v1\include\pokemon_move.h
+	<string>
+
+1575270258 source:g:\fall 2019\csc 275 - prob solving & prog ii\projects\p3\v1\src\pokemon_move.cpp
+	"Pokemon_Move.h"
+
+1575339022 source:e:\my drive\fall 2019\csc 275 - prob solving & prog ii\projects\p3\v1\main.cpp
+	<iostream>
+	<vector>
+	"Fast_Move.h"
+	"Charge_Move.h"
+	"Trainer.h"
+
+1575339083 e:\my drive\fall 2019\csc 275 - prob solving & prog ii\projects\p3\v1\include\fast_move.h
+	"Pokemon_Move.h"
+	<string>
+
+1575424304 e:\my drive\fall 2019\csc 275 - prob solving & prog ii\projects\p3\v1\include\pokemon_move.h
+	<string>
+
+1575424004 e:\my drive\fall 2019\csc 275 - prob solving & prog ii\projects\p3\v1\include\charge_move.h
+	"Pokemon_Move.h"
+	<string>
+
+1575339045 e:\my drive\fall 2019\csc 275 - prob solving & prog ii\projects\p3\v1\include\trainer.h
+	<vector>
+	"Pokemon.h"
+
+1575424524 e:\my drive\fall 2019\csc 275 - prob solving & prog ii\projects\p3\v1\include\pokemon.h
+	"Fast_Move.h"
+	"Charge_Move.h"
+	<string>
+	<vector>
+	<cstdlib>
+
+1575326085 source:e:\my drive\fall 2019\csc 275 - prob solving & prog ii\projects\p3\v1\src\charge_move.cpp
+	"Charge_Move.h"
+	<string>
+
+1575326101 source:e:\my drive\fall 2019\csc 275 - prob solving & prog ii\projects\p3\v1\src\fast_move.cpp
+	"Fast_Move.h"
+	<string.h>
+
+1575336701 source:e:\my drive\fall 2019\csc 275 - prob solving & prog ii\projects\p3\v1\src\pokemon.cpp
+	"Pokemon.h"
+	<math.h>
+	<vector>
+	<iostream>
+	<string>
+	"Trainer.h"
+	<cstdlib>
+
+1575339243 source:e:\my drive\fall 2019\csc 275 - prob solving & prog ii\projects\p3\v1\src\pokemon_move.cpp
+	"Pokemon_Move.h"
+
+1575339252 source:e:\my drive\fall 2019\csc 275 - prob solving & prog ii\projects\p3\v1\src\trainer.cpp
+	<iostream>
+	<vector>
+	"Trainer.h"
+
